@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Warkop Naik Kelas",
+        "address": "Jl. Swasembada Timur XI No.28, RW.10, Kb. Bawang, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14230",
+        "imageUrl":"https://lh3.googleusercontent.com/p/AF1QipP6E_f_5Gs3xwh8xA0J5bqUP3o-7oOJP3GNiDEd=s1360-w1360-h1020",
+        "rating":"9",
+        "description":"Memberi kesan warkop dengan nuansa cafe , pertama di Jakarta Utara",
+        "status":"Buka Jam 10 Pagi Sampai jam 12 Malam",
+        "city":"Jakarta Utara",
+        "owner":"Ahmad Sahroni"
+    },
+    {
+        "name": "Warkop Biru Co.",
+        "address": "Jl. Plumpang Semper No.16, RT.1/RW.4",
+        "imageUrl":"https://lh5.googleusercontent.com/p/AF1QipOlCZ64vZ6xZuA0_Vn9UdlTuBgLbXLgreNIJoQI=w125-h125-n-k-no",
+        "rating":"9",
+        "description":"Murah , bersih , dan yang jaga cantik",
+        "status":"Buka Jam 8 Pagi Sampai jam 12 Malam",
+        "city":"Jakarta Utara",
+        "owner":"Habibie"
+    },
+    {
+        "name": "Warkop Restu Illahi",
+        "address": "Jl. Swasembada Barat XVI No.74, RT.5/RW.14, Kb. Bawang, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14320",
+        "imageUrl":"data:image/jpeg;base64,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",
+        "rating":"8",
+        "description":"Old school warung kopi , angkat kaki makan roti ",
+        "status":"Buka 24 Jam",
+        "city":"Jakarta Utara",
+        "owner":"Restu "
+    },
+    {
+        "name": "Warkop tempo dulu",
+        "address": " Daerah, Khusus Ibu, Jl. Salemba Tengah No.7, RT.2/RW.3, Paseban, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10440",
+        "imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMF9B94-CEZD9LkkjeI9sSk30svvT2Wsa-cLfFQ=w99-h99-n-k-no",
+        "rating":"8",
+        "description":"Waroenk Kopi Tempoe doeloe , wedang jahe nye juaranye ",
+        "status":"Buka Jam 12 Siang sampai Jam 10 Malam",
+        "city":"Jakarta Pusat",
+        "owner":"Joko Susilo"
+    },
+    {
+        "name": "Warkop keramat II",
+        "address": " Yayasan Administrasi Indonesia, Jl. Kramat Raya No.2, RT.2/RW.9, Kwitang, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10420",
+        "imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMlr6-dMCBTkFWtjNPrnCA5eB-nNsXN80oKK7m_=w99-h99-n-k-no",
+        "rating":"7",
+        "description":"Cobain bakwannya mpok Jule pake sambel kacang , top!",
+        "status":"Buka 24 Jam",
+        "city":"Jakarta Pusat",
+        "owner":"Jule"
+    },
+    {
+        "name": "Warkop Mujahidin",
+        "address": "Jl. Wahidin II, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",
+        "imageUrl":"https://lh5.googleusercontent.com/p/AF1QipNQo-xZoA0E0r4sWAL_DvASiraHn_SL8AbpG9Pq=w99-h99-n-k-no",
+        "rating":"7",
+        "description":"Tersedia sate - satean dan nasi kucing , warkop + angkringan bro",
+        "status":"Buka 24 Jam",
+        "city":"Jakarta Pusat",
+        "owner":"Haji Nonot"
+    },
+    {
+        "name": "Warkop Berkah",
+        "address": "Jl. Kemang Utara No.37, RT.2/RW.4, Kuningan, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+        "imageUrl":"https://lh5.googleusercontent.com/p/AF1QipPlFIl-oSz3oYpfl2Fcc7FstQL_wEKH-Oo-yYw=w90-h90-n-k-no",
+        "rating":"8",
+        "description":"Warkop pertama di bilangan Kemang , menurut yang punya bu Haji Siti",
+        "status":"Buka 24 Jam",
+        "city":"Jakarta Selatan",
+        "owner":" Haji Siti"
+    },
+    {
+        "name": "Warkop Abah",
+        "address": "Jl. Guru Mughni No.4, RW.1, Kuningan, Kuningan Tim., Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12790",
+        "imageUrl":"https://lh5.googleusercontent.com/p/AF1QipN82026hsdl6oEWKb3_YiBGLTZKwbA8cBrqwrQi=w90-h90-n-k-no",
+        "rating":"9",
+        "description":"Kalo galau kesini aja , dapet free session curhat sama yang punya warkop",
+        "status":"Buka 24 Jam",
+        "city":"Jakarta Selatan",
+        "owner":"Abah Ali"
+    },
+    {
+        "name": "Warkop Jaksel Kemuning",
+        "address": "Jl. Poltangan Raya No.29, RT.9/RW.5, Pejaten Timur, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510",
+        "imageUrl":"https://lh5.googleusercontent.com/p/AF1QipMHuVHhvmnwagM1POWfIh5KYl1MZodMO0F75yKd=w90-h90-n-k-no",
+        "rating":"8",
+        "description":"Sesuai namanya , yang nongkrong disini literally anak jaksel minumnya ice cappucino with milk mixed with almond with less sugar ",
+        "status":"Buka 24 Jam",
+        "city":"Jakarta Selatan",
+        "owner":"Dicky Maulana"
+    },
+    {
+        "name": "Coming Soon",
+        "address": "Coming Soon",
+        "imageUrl":"Coming Soon",
+        "rating":"0",
+        "description":"Coming Soon",
+        "status":"Coming Soon",
+        "city":"Coming Soon",
+        "owner":"Coming Soon"
+    }
+
+]
